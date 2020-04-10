@@ -1,3 +1,6 @@
 [submodule "Websites"]
 	path = Websites
 	url = https://github.com/gkatom/Websites.git
+[submodule "Spotify-Ad-Blocker"]
+	path = Spotify-Ad-Blocker
+	url = https://github.com/gkatom/Spotify-Ad-Blocker.git
